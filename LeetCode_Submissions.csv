@@ -1,0 +1,212 @@
+Question ID,Title,Status,Date,Language,Runtime,Memory,Code File
+338,Counting Bits,Accepted,2026-08-18 20.21.44,java,2 ms,48.4 MB,2026-08-18 20.21.44 - Accepted - runtime 2ms - memory 48.4MB.java
+234,Palindrome Linked List,Accepted,2026-08-18 20.20.53,java,3 ms,93.9 MB,2026-08-18 20.20.53 - Accepted - runtime 3ms - memory 93.9MB.java
+908,Middle of the Linked List,Accepted,2026-08-18 20.20.04,java,0 ms,43 MB,2026-08-18 20.20.04 - Accepted - runtime 0ms - memory 43MB.java
+141,Linked List Cycle,Accepted,2026-08-18 20.18.35,java,0 ms,46.6 MB,2026-08-18 20.18.35 - Accepted - runtime 0ms - memory 46.6MB.java
+206,Reverse Linked List,Accepted,2026-08-18 20.08.55,java,0 ms,44.2 MB,2026-08-18 20.08.55 - Accepted - runtime 0ms - memory 44.2MB.java
+206,Reverse Linked List,Accepted,2026-08-18 20.04.32,java,0 ms,44.5 MB,2026-08-18 20.04.32 - Accepted - runtime 0ms - memory 44.5MB.java
+206,Reverse Linked List,Accepted,2026-08-18 19.57.55,java,0 ms,44.2 MB,2026-08-18 19.57.55 - Accepted - runtime 0ms - memory 44.2MB.java
+3626,Smallest Divisible Digit Product I,Accepted,2026-08-06 16.06.42,java,1 ms,42.8 MB,2026-08-06 16.06.42 - Accepted - runtime 1ms - memory 42.8MB.java
+3626,Smallest Divisible Digit Product I,Accepted,2026-08-06 15.41.32,java,1 ms,42.9 MB,2026-08-06 15.41.32 - Accepted - runtime 1ms - memory 42.9MB.java
+4369,Even Number of Knight Moves,Accepted,2026-07-19 08.02.49,java,1 ms,44.2 MB,2026-07-19 08.02.49 - Accepted - runtime 1ms - memory 44.2MB.java
+2106,Find Greatest Common Divisor of Array,Accepted,2026-07-18 16.06.53,java,0 ms,44.6 MB,2026-07-18 16.06.53 - Accepted - runtime 0ms - memory 44.6MB.java
+543,Diameter of Binary Tree,Accepted,2026-07-18 15.48.12,java,1 ms,47 MB,2026-07-18 15.48.12 - Accepted - runtime 1ms - memory 47MB.java
+3995,GCD of Odd and Even Sums,Accepted,2026-07-18 14.56.55,java,1 ms,42.5 MB,2026-07-18 14.56.55 - Accepted - runtime 1ms - memory 42.5MB.java
+236,Lowest Common Ancestor of a Binary Tree,Accepted,2026-07-18 14.38.23,java,16 ms,70.1 MB,2026-07-18 14.38.23 - Accepted - runtime 16ms - memory 70.1MB.java
+111,Minimum Depth of Binary Tree,Accepted,2026-07-18 14.11.16,java,2 ms,81.8 MB,2026-07-18 14.11.16 - Accepted - runtime 2ms - memory 81.8MB.java
+199,Binary Tree Right Side View,Accepted,2026-07-18 10.10.07,java,1 ms,43.5 MB,2026-07-18 10.10.07 - Accepted - runtime 1ms - memory 43.5MB.java
+103,Binary Tree Zigzag Level Order Traversal,Accepted,2026-07-18 09.52.12,java,1 ms,43.2 MB,2026-07-18 09.52.12 - Accepted - runtime 1ms - memory 43.2MB.java
+102,Binary Tree Level Order Traversal,Accepted,2026-07-18 09.26.21,java,1 ms,46.7 MB,2026-07-18 09.26.21 - Accepted - runtime 1ms - memory 46.7MB.java
+129,Sum Root to Leaf Numbers,Accepted,2026-07-18 08.51.31,java,0 ms,42.9 MB,2026-07-18 08.51.31 - Accepted - runtime 0ms - memory 42.9MB.java
+404,Sum of Left Leaves,Accepted,2026-07-17 21.24.02,java,0 ms,43.5 MB,2026-07-17 21.24.02 - Accepted - runtime 0ms - memory 43.5MB.java
+101,Symmetric Tree,Accepted,2026-07-17 21.17.14,java,0 ms,43.6 MB,2026-07-17 21.17.14 - Accepted - runtime 0ms - memory 43.6MB.java
+783,Search in a Binary Search Tree,Accepted,2026-07-17 14.32.52,java,0 ms,47.2 MB,2026-07-17 14.32.52 - Accepted - runtime 0ms - memory 47.2MB.java
+104,Maximum Depth of Binary Tree,Accepted,2026-07-17 14.03.53,java,0 ms,47.3 MB,2026-07-17 14.03.53 - Accepted - runtime 0ms - memory 47.3MB.java
+222,Count Complete Tree Nodes,Accepted,2026-07-17 13.44.29,java,0 ms,49.4 MB,2026-07-17 13.44.29 - Accepted - runtime 0ms - memory 49.4MB.java
+94,Binary Tree Inorder Traversal,Accepted,2026-07-16 15.07.58,java,0 ms,43.1 MB,2026-07-16 15.07.58 - Accepted - runtime 0ms - memory 43.1MB.java
+94,Binary Tree Inorder Traversal,Accepted,2026-07-16 15.07.50,java,0 ms,43 MB,2026-07-16 15.07.50 - Accepted - runtime 0ms - memory 43MB.java
+56,Merge Intervals,Accepted,2026-07-09 14.40.04,java,8 ms,48.9 MB,2026-07-09 14.40.04 - Accepted - runtime 8ms - memory 48.9MB.java
+153,Find Minimum in Rotated Sorted Array,Accepted,2026-07-08 14.43.44,java,0 ms,43.9 MB,2026-07-08 14.43.44 - Accepted - runtime 0ms - memory 43.9MB.java
+153,Find Minimum in Rotated Sorted Array,Accepted,2026-07-08 14.39.22,java,4 ms,44.8 MB,2026-07-08 14.39.22 - Accepted - runtime 4ms - memory 44.8MB.java
+153,Find Minimum in Rotated Sorted Array,Accepted,2026-07-08 14.39.00,java,5 ms,44.4 MB,2026-07-08 14.39.00 - Accepted - runtime 5ms - memory 44.4MB.java
+240,Search a 2D Matrix II,Accepted,2026-07-08 14.36.27,java,3 ms,48.3 MB,2026-07-08 14.36.27 - Accepted - runtime 3ms - memory 48.3MB.java
+240,Search a 2D Matrix II,Accepted,2026-07-08 14.31.00,java,3 ms,48.1 MB,2026-07-08 14.31.00 - Accepted - runtime 3ms - memory 48.1MB.java
+240,Search a 2D Matrix II,Accepted,2026-07-08 14.22.34,java,3 ms,47.9 MB,2026-07-08 14.22.34 - Accepted - runtime 3ms - memory 47.9MB.java
+240,Search a 2D Matrix II,Accepted,2026-07-08 14.06.08,java,40 ms,48.1 MB,2026-07-08 14.06.08 - Accepted - runtime 40ms - memory 48.1MB.java
+74,Search a 2D Matrix,Accepted,2026-07-08 13.58.35,java,0 ms,43.9 MB,2026-07-08 13.58.35 - Accepted - runtime 0ms - memory 43.9MB.java
+74,Search a 2D Matrix,Accepted,2026-07-08 13.48.12,java,0 ms,44.1 MB,2026-07-08 13.48.12 - Accepted - runtime 0ms - memory 44.1MB.java
+74,Search a 2D Matrix,Accepted,2026-07-08 13.47.18,java,0 ms,44 MB,2026-07-08 13.47.18 - Accepted - runtime 0ms - memory 44MB.java
+3,Longest Substring Without Repeating Characters,Accepted,2026-07-08 09.50.42,java,29 ms,46.9 MB,2026-07-08 09.50.42 - Accepted - runtime 29ms - memory 46.9MB.java
+268,Missing Number,Accepted,2026-07-07 21.33.30,java,0 ms,47.4 MB,2026-07-07 21.33.30 - Accepted - runtime 0ms - memory 47.4MB.java
+136,Single Number,Accepted,2026-07-07 21.32.44,java,1 ms,47 MB,2026-07-07 21.32.44 - Accepted - runtime 1ms - memory 47MB.java
+229,Majority Element II,Accepted,2026-07-07 21.31.04,java,12 ms,50.9 MB,2026-07-07 21.31.04 - Accepted - runtime 12ms - memory 50.9MB.java
+1542,Consecutive Characters,Accepted,2026-07-07 21.29.36,java,1 ms,43.5 MB,2026-07-07 21.29.36 - Accepted - runtime 1ms - memory 43.5MB.java
+485,Max Consecutive Ones,Accepted,2026-07-07 21.29.00,java,3 ms,52.4 MB,2026-07-07 21.29.00 - Accepted - runtime 3ms - memory 52.4MB.java
+209,Minimum Size Subarray Sum,Accepted,2026-07-07 21.28.07,java,2 ms,69.4 MB,2026-07-07 21.28.07 - Accepted - runtime 2ms - memory 69.4MB.java
+643,Maximum Average Subarray I,Accepted,2026-07-07 21.27.05,java,2 ms,69.3 MB,2026-07-07 21.27.05 - Accepted - runtime 2ms - memory 69.3MB.java
+225,Implement Stack using Queues,Accepted,2026-07-06 20.25.41,java,0 ms,42.7 MB,2026-07-06 20.25.41 - Accepted - runtime 0ms - memory 42.7MB.java
+232,Implement Queue using Stacks,Accepted,2026-07-06 20.25.25,java,0 ms,42.7 MB,2026-07-06 20.25.25 - Accepted - runtime 0ms - memory 42.7MB.java
+735,Asteroid Collision,Accepted,2026-07-06 20.23.34,java,5 ms,47.1 MB,2026-07-06 20.23.34 - Accepted - runtime 5ms - memory 47.1MB.java
+937,Online Stock Span,Accepted,2026-07-06 20.22.36,java,30 ms,54.4 MB,2026-07-06 20.22.36 - Accepted - runtime 30ms - memory 54.4MB.java
+155,Min Stack,Accepted,2026-07-06 14.51.12,java,35 ms,100.1 MB,2026-07-06 14.51.12 - Accepted - runtime 35ms - memory 100.1MB.java
+155,Min Stack,Accepted,2026-07-06 14.50.40,java,34 ms,99.7 MB,2026-07-06 14.50.40 - Accepted - runtime 34ms - memory 99.7MB.java
+686,Repeated String Match,Accepted,2026-07-05 20.28.32,java,260 ms,43.7 MB,2026-07-05 20.28.32 - Accepted - runtime 260ms - memory 43.7MB.java
+812,Rotate String,Accepted,2026-07-05 20.27.40,java,2 ms,43.3 MB,2026-07-05 20.27.40 - Accepted - runtime 2ms - memory 43.3MB.java
+503,Next Greater Element II,Accepted,2026-07-05 20.26.53,java,90 ms,47.5 MB,2026-07-05 20.26.53 - Accepted - runtime 90ms - memory 47.5MB.java
+496,Next Greater Element I,Accepted,2026-07-05 20.25.50,java,11 ms,44.9 MB,2026-07-05 20.25.50 - Accepted - runtime 11ms - memory 44.9MB.java
+42,Trapping Rain Water,Accepted,2026-07-05 20.24.41,java,1 ms,47.6 MB,2026-07-05 20.24.41 - Accepted - runtime 1ms - memory 47.6MB.java
+11,Container With Most Water,Accepted,2026-07-05 20.21.53,java,5 ms,77.6 MB,2026-07-05 20.21.53 - Accepted - runtime 5ms - memory 77.6MB.java
+2129,Number of Pairs of Interchangeable Rectangles,Accepted,2026-07-03 21.12.05,java,42 ms,150.8 MB,2026-07-03 21.12.05 - Accepted - runtime 42ms - memory 150.8MB.java
+53,Maximum Subarray,Accepted,2026-07-03 21.10.58,java,1 ms,77 MB,2026-07-03 21.10.58 - Accepted - runtime 1ms - memory 77MB.java
+134,Gas Station,Accepted,2026-07-03 21.10.12,java,3 ms,119.3 MB,2026-07-03 21.10.12 - Accepted - runtime 3ms - memory 119.3MB.java
+20,Valid Parentheses,Accepted,2026-07-03 21.08.52,java,3 ms,43.4 MB,2026-07-03 21.08.52 - Accepted - runtime 3ms - memory 43.4MB.java
+1635,Number of Good Pairs,Accepted,2026-07-03 11.28.11,java,1 ms,42.8 MB,2026-07-03 11.28.11 - Accepted - runtime 1ms - memory 42.8MB.java
+1,Two Sum,Accepted,2026-07-03 11.12.03,java,2 ms,47.1 MB,2026-07-03 11.12.03 - Accepted - runtime 2ms - memory 47.1MB.java
+1635,Number of Good Pairs,Accepted,2026-07-02 21.42.24,java,1 ms,42.8 MB,2026-07-02 21.42.24 - Accepted - runtime 1ms - memory 42.8MB.java
+693,Binary Number with Alternating Bits,Accepted,2026-07-01 20.34.06,java,0 ms,42.4 MB,2026-07-01 20.34.06 - Accepted - runtime 0ms - memory 42.4MB.java
+344,Reverse String,Accepted,2026-07-01 15.49.44,java,0 ms,48.1 MB,2026-07-01 15.49.44 - Accepted - runtime 0ms - memory 48.1MB.java
+1421,Find Numbers with Even Number of Digits,Accepted,2026-07-01 15.48.39,java,1 ms,44.6 MB,2026-07-01 15.48.39 - Accepted - runtime 1ms - memory 44.6MB.java
+1421,Find Numbers with Even Number of Digits,Accepted,2026-07-01 15.08.33,java,1 ms,44.7 MB,2026-07-01 15.08.33 - Accepted - runtime 1ms - memory 44.7MB.java
+1421,Find Numbers with Even Number of Digits,Accepted,2026-07-01 15.07.55,java,1 ms,44.7 MB,2026-07-01 15.07.55 - Accepted - runtime 1ms - memory 44.7MB.java
+1231,Replace Elements with Greatest Element on Right Side,Accepted,2026-07-01 14.59.07,java,3 ms,49.2 MB,2026-07-01 14.59.07 - Accepted - runtime 3ms - memory 49.2MB.java
+1231,Replace Elements with Greatest Element on Right Side,Accepted,2026-07-01 14.28.17,java,1393 ms,49 MB,2026-07-01 14.28.17 - Accepted - runtime 1393ms - memory 49MB.java
+1231,Replace Elements with Greatest Element on Right Side,Accepted,2026-07-01 14.16.20,java,1400 ms,49 MB,2026-07-01 14.16.20 - Accepted - runtime 1400ms - memory 49MB.java
+1231,Replace Elements with Greatest Element on Right Side,Accepted,2026-07-01 14.15.55,java,1404 ms,49 MB,2026-07-01 14.15.55 - Accepted - runtime 1404ms - memory 49MB.java
+1580,Shuffle the Array,Accepted,2026-07-01 13.50.38,java,0 ms,46.5 MB,2026-07-01 13.50.38 - Accepted - runtime 0ms - memory 46.5MB.java
+777,Toeplitz Matrix,Accepted,2026-07-01 12.12.10,java,0 ms,46.4 MB,2026-07-01 12.12.10 - Accepted - runtime 0ms - memory 46.4MB.java
+1677,Matrix Diagonal Sum,Accepted,2026-07-01 11.52.44,java,0 ms,46.3 MB,2026-07-01 11.52.44 - Accepted - runtime 0ms - memory 46.3MB.java
+1677,Matrix Diagonal Sum,Accepted,2026-07-01 11.40.33,java,0 ms,46.6 MB,2026-07-01 11.40.33 - Accepted - runtime 0ms - memory 46.6MB.java
+461,Hamming Distance,Accepted,2026-07-01 11.26.49,java,0 ms,42 MB,2026-07-01 11.26.49 - Accepted - runtime 0ms - memory 42MB.java
+461,Hamming Distance,Accepted,2026-07-01 11.19.09,java,0 ms,42.4 MB,2026-07-01 11.19.09 - Accepted - runtime 0ms - memory 42.4MB.java
+191,Number of 1 Bits,Accepted,2026-07-01 11.04.59,java,0 ms,42.4 MB,2026-07-01 11.04.59 - Accepted - runtime 0ms - memory 42.4MB.java
+191,Number of 1 Bits,Accepted,2026-07-01 11.02.41,java,0 ms,42.5 MB,2026-07-01 11.02.41 - Accepted - runtime 0ms - memory 42.5MB.java
+342,Power of Four,Accepted,2026-07-01 09.26.25,java,1 ms,42.4 MB,2026-07-01 09.26.25 - Accepted - runtime 1ms - memory 42.4MB.java
+231,Power of Two,Accepted,2026-07-01 09.21.20,java,1 ms,42.6 MB,2026-07-01 09.21.20 - Accepted - runtime 1ms - memory 42.6MB.java
+1,Two Sum,Accepted,2026-07-01 09.11.12,java,45 ms,47.2 MB,2026-07-01 09.11.12 - Accepted - runtime 45ms - memory 47.2MB.java
+231,Power of Two,Accepted,2026-07-01 09.02.49,java,1 ms,42.3 MB,2026-07-01 09.02.49 - Accepted - runtime 1ms - memory 42.3MB.java
+172,Factorial Trailing Zeroes,Accepted,2026-06-30 12.12.47,java,0 ms,42.3 MB,2026-06-30 12.12.47 - Accepted - runtime 0ms - memory 42.3MB.java
+172,Factorial Trailing Zeroes,Accepted,2026-06-30 11.54.30,java,0 ms,42.3 MB,2026-06-30 11.54.30 - Accepted - runtime 0ms - memory 42.3MB.java
+172,Factorial Trailing Zeroes,Accepted,2026-06-30 11.53.03,java,0 ms,42.7 MB,2026-06-30 11.53.03 - Accepted - runtime 0ms - memory 42.7MB.java
+263,Ugly Number,Accepted,2026-06-30 11.05.33,java,1 ms,42.7 MB,2026-06-30 11.05.33 - Accepted - runtime 1ms - memory 42.7MB.java
+292,Nim Game,Accepted,2026-06-30 10.56.38,java,0 ms,42 MB,2026-06-30 10.56.38 - Accepted - runtime 0ms - memory 42MB.java
+2575,Minimum Cuts to Divide a Circle,Accepted,2026-06-30 09.21.46,java,0 ms,42 MB,2026-06-30 09.21.46 - Accepted - runtime 0ms - memory 42MB.java
+2575,Minimum Cuts to Divide a Circle,Accepted,2026-06-30 09.20.46,java,0 ms,42.3 MB,2026-06-30 09.20.46 - Accepted - runtime 0ms - memory 42.3MB.java
+1961,Maximum Ice Cream Bars,Accepted,2026-06-21 19.47.58,java,37 ms,83.8 MB,2026-06-21 19.47.58 - Accepted - runtime 37ms - memory 83.8MB.java
+4216,Weighted Word Mapping,Accepted,2026-06-13 19.41.44,java,2 ms,46.5 MB,2026-06-13 19.41.44 - Accepted - runtime 2ms - memory 46.5MB.java
+78,Subsets,Accepted,2026-06-12 20.07.16,java,1 ms,43.9 MB,2026-06-12 20.07.16 - Accepted - runtime 1ms - memory 43.9MB.java
+78,Subsets,Accepted,2026-06-12 19.58.00,java,1 ms,44.5 MB,2026-06-12 19.58.00 - Accepted - runtime 1ms - memory 44.5MB.java
+22,Generate Parentheses,Accepted,2026-06-11 18.53.00,java,2 ms,45 MB,2026-06-11 18.53.00 - Accepted - runtime 2ms - memory 45MB.java
+540,Single Element in a Sorted Array,Accepted,2026-06-10 05.36.28,java,0 ms,52.8 MB,2026-06-10 05.36.28 - Accepted - runtime 0ms - memory 52.8MB.java
+34,Find First and Last Position of Element in Sorted Array,Accepted,2026-06-10 05.35.46,java,0 ms,48.4 MB,2026-06-10 05.35.46 - Accepted - runtime 0ms - memory 48.4MB.java
+287,Find the Duplicate Number,Accepted,2026-06-10 05.35.22,java,4 ms,82.9 MB,2026-06-10 05.35.22 - Accepted - runtime 4ms - memory 82.9MB.java
+448,Find All Numbers Disappeared in an Array,Accepted,2026-06-10 05.35.02,java,6 ms,67.2 MB,2026-06-10 05.35.02 - Accepted - runtime 6ms - memory 67.2MB.java
+792,Binary Search,Accepted,2026-06-10 05.34.20,java,0 ms,48.3 MB,2026-06-10 05.34.20 - Accepted - runtime 0ms - memory 48.3MB.java
+41,First Missing Positive,Accepted,2026-06-10 05.22.02,java,1 ms,71.4 MB,2026-06-10 05.22.02 - Accepted - runtime 1ms - memory 71.4MB.java
+268,Missing Number,Accepted,2026-06-10 05.19.05,java,0 ms,47.6 MB,2026-06-10 05.19.05 - Accepted - runtime 0ms - memory 47.6MB.java
+1646,Kth Missing Positive Number,Accepted,2026-06-10 04.59.39,java,1 ms,44.8 MB,2026-06-10 04.59.39 - Accepted - runtime 1ms - memory 44.8MB.java
+39,Combination Sum,Accepted,2026-06-08 19.45.49,java,2 ms,45.6 MB,2026-06-08 19.45.49 - Accepted - runtime 2ms - memory 45.6MB.java
+2306,Create Binary Tree From Descriptions,Accepted,2026-06-07 19.52.09,java,65 ms,85.8 MB,2026-06-07 19.52.09 - Accepted - runtime 65ms - memory 85.8MB.java
+392,Is Subsequence,Accepted,2026-06-06 20.18.00,java,2 ms,42.8 MB,2026-06-06 20.18.00 - Accepted - runtime 2ms - memory 42.8MB.java
+1217,Relative Sort Array,Accepted,2026-06-05 20.59.39,java,0 ms,43.8 MB,2026-06-05 20.59.39 - Accepted - runtime 0ms - memory 43.8MB.java
+948,Sort an Array,Accepted,2026-06-05 20.41.45,java,21 ms,83 MB,2026-06-05 20.41.45 - Accepted - runtime 21ms - memory 83MB.java
+162,Find Peak Element,Accepted,2026-03-24 14.11.46,java,0 ms,44.2 MB,2026-03-24 14.11.46 - Accepted - runtime 0ms - memory 44.2MB.java
+169,Majority Element,Accepted,2026-03-17 14.15.51,java,1 ms,55.7 MB,2026-03-17 14.15.51 - Accepted - runtime 1ms - memory 55.7MB.java
+151,Reverse Words in a String,Accepted,2026-03-17 14.10.52,java,9 ms,47 MB,2026-03-17 14.10.52 - Accepted - runtime 9ms - memory 47MB.java
+137,Single Number II,Accepted,2026-03-17 14.05.42,java,0 ms,45.2 MB,2026-03-17 14.05.42 - Accepted - runtime 0ms - memory 45.2MB.java
+75,Sort Colors,Accepted,2026-03-06 15.40.51,java,0 ms,43.5 MB,2026-03-06 15.40.51 - Accepted - runtime 0ms - memory 43.5MB.java
+724,Find Pivot Index,Accepted,2026-03-06 15.37.24,java,1 ms,47.4 MB,2026-03-06 15.37.24 - Accepted - runtime 1ms - memory 47.4MB.java
+2195,Time Needed to Buy Tickets,Accepted,2026-03-05 11.47.05,java,0 ms,43.2 MB,2026-03-05 11.47.05 - Accepted - runtime 0ms - memory 43.2MB.java
+233,Number of Digit One,Accepted,2026-03-05 09.54.20,java,0 ms,42 MB,2026-03-05 09.54.20 - Accepted - runtime 0ms - memory 42MB.java
+220,Contains Duplicate III,Accepted,2026-03-05 09.51.27,java,135 ms,112 MB,2026-03-05 09.51.27 - Accepted - runtime 135ms - memory 112MB.java
+217,Contains Duplicate,Accepted,2026-03-05 09.42.20,java,24 ms,76.5 MB,2026-03-05 09.42.20 - Accepted - runtime 24ms - memory 76.5MB.java
+219,Contains Duplicate II,Accepted,2026-03-05 09.36.45,java,1189 ms,70.2 MB,2026-03-05 09.36.45 - Accepted - runtime 1189ms - memory 70.2MB.java
+4229,Trim Trailing Vowels,Accepted,2026-03-05 09.16.44,java,1 ms,44.1 MB,2026-03-05 09.16.44 - Accepted - runtime 1ms - memory 44.1MB.java
+263,Ugly Number,Accepted,2026-03-04 20.37.49,java,1 ms,42.7 MB,2026-03-04 20.37.49 - Accepted - runtime 1ms - memory 42.7MB.java
+209,Minimum Size Subarray Sum,Accepted,2026-02-18 14.38.27,java,1 ms,62.2 MB,2026-02-18 14.38.27 - Accepted - runtime 1ms - memory 62.2MB.java
+383,Ransom Note,Accepted,2026-02-17 20.28.05,java,1 ms,46.5 MB,2026-02-17 20.28.05 - Accepted - runtime 1ms - memory 46.5MB.java
+205,Isomorphic Strings,Accepted,2026-02-16 20.36.33,java,7 ms,44.1 MB,2026-02-16 20.36.33 - Accepted - runtime 7ms - memory 44.1MB.java
+205,Isomorphic Strings,Accepted,2026-02-16 20.25.08,java,7 ms,43.7 MB,2026-02-16 20.25.08 - Accepted - runtime 7ms - memory 43.7MB.java
+742,To Lower Case,Accepted,2026-01-05 14.37.25,java,0 ms,43.2 MB,2026-01-05 14.37.25 - Accepted - runtime 0ms - memory 43.2MB.java
+541,Reverse String II,Accepted,2025-12-17 10.27.41,java,1 ms,44.6 MB,2025-12-17 10.27.41 - Accepted - runtime 1ms - memory 44.6MB.java
+43,Multiply Strings,Accepted,2025-12-16 19.20.06,java,3 ms,43.6 MB,2025-12-16 19.20.06 - Accepted - runtime 3ms - memory 43.6MB.java
+886,Score of Parentheses,Accepted,2025-11-24 19.12.08,java,1 ms,42.8 MB,2025-11-24 19.12.08 - Accepted - runtime 1ms - memory 42.8MB.java
+1570,Final Prices With a Special Discount in a Shop,Accepted,2025-11-24 11.23.51,java,4 ms,45 MB,2025-11-24 11.23.51 - Accepted - runtime 4ms - memory 45MB.java
+2128,Reverse Prefix of Word,Accepted,2025-11-22 11.22.22,java,1 ms,42.8 MB,2025-11-22 11.22.22 - Accepted - runtime 1ms - memory 42.8MB.java
+3447,Clear Digits,Accepted,2025-11-21 18.15.51,java,2 ms,44.1 MB,2025-11-21 18.15.51 - Accepted - runtime 2ms - memory 44.1MB.java
+1320,Remove All Adjacent Duplicates in String II,Accepted,2025-11-20 10.43.49,java,5 ms,46 MB,2025-11-20 10.43.49 - Accepted - runtime 5ms - memory 46MB.java
+1666,Make The String Great,Accepted,2025-11-19 18.10.57,java,3 ms,43.5 MB,2025-11-19 18.10.57 - Accepted - runtime 3ms - memory 43.5MB.java
+2470,Removing Stars From a String,Accepted,2025-11-18 20.56.41,java,63 ms,48 MB,2025-11-18 20.56.41 - Accepted - runtime 63ms - memory 48MB.java
+227,Basic Calculator II,Accepted,2025-11-16 19.04.26,java,19 ms,47.9 MB,2025-11-16 19.04.26 - Accepted - runtime 19ms - memory 47.9MB.java
+874,Backspace String Compare,Accepted,2025-11-15 19.08.10,java,3 ms,43.4 MB,2025-11-15 19.08.10 - Accepted - runtime 3ms - memory 43.4MB.java
+1128,Remove All Adjacent Duplicates In String,Accepted,2025-11-12 17.07.46,java,10 ms,47 MB,2025-11-12 17.07.46 - Accepted - runtime 10ms - memory 47MB.java
+20,Valid Parentheses,Accepted,2025-11-11 18.27.26,c,0 ms,8.2 MB,2025-11-11 18.27.26 - Accepted - runtime 0ms - memory 8.2MB.c
+1950,Sign of the Product of an Array,Accepted,2025-10-11 16.09.45,java,0 ms,44.4 MB,2025-10-11 16.09.45 - Accepted - runtime 0ms - memory 44.4MB.java
+67,Add Binary,Accepted,2025-10-06 19.29.24,java,2 ms,42 MB,2025-10-06 19.29.24 - Accepted - runtime 2ms - memory 42MB.java
+374,Guess Number Higher or Lower,Accepted,2025-10-05 13.50.37,java,0 ms,40.5 MB,2025-10-05 13.50.37 - Accepted - runtime 0ms - memory 40.5MB.java
+350,Intersection of Two Arrays II,Accepted,2025-10-05 13.48.22,java,3 ms,42.9 MB,2025-10-05 13.48.22 - Accepted - runtime 3ms - memory 42.9MB.java
+350,Intersection of Two Arrays II,Accepted,2025-10-05 13.48.04,java,3 ms,42.6 MB,2025-10-05 13.48.04 - Accepted - runtime 3ms - memory 42.6MB.java
+345,Reverse Vowels of a String,Accepted,2025-10-05 13.43.51,java,3 ms,45.3 MB,2025-10-05 13.43.51 - Accepted - runtime 3ms - memory 45.3MB.java
+344,Reverse String,Accepted,2025-10-05 13.43.03,java,0 ms,45.8 MB,2025-10-05 13.43.03 - Accepted - runtime 0ms - memory 45.8MB.java
+349,Intersection of Two Arrays,Accepted,2025-10-04 20.57.15,java,3 ms,43.2 MB,2025-10-04 20.57.15 - Accepted - runtime 3ms - memory 43.2MB.java
+342,Power of Four,Accepted,2025-10-04 20.40.25,java,0 ms,41 MB,2025-10-04 20.40.25 - Accepted - runtime 0ms - memory 41MB.java
+507,Perfect Number,Accepted,2025-10-04 20.35.47,java,1 ms,40.6 MB,2025-10-04 20.35.47 - Accepted - runtime 1ms - memory 40.6MB.java
+414,Third Maximum Number,Accepted,2025-10-04 19.55.33,java,3 ms,43.7 MB,2025-10-04 19.55.33 - Accepted - runtime 3ms - memory 43.7MB.java
+202,Happy Number,Accepted,2025-10-04 19.40.10,java,0 ms,40.9 MB,2025-10-04 19.40.10 - Accepted - runtime 0ms - memory 40.9MB.java
+258,Add Digits,Accepted,2025-10-04 15.42.42,java,0 ms,41.2 MB,2025-10-04 15.42.42 - Accepted - runtime 0ms - memory 41.2MB.java
+121,Best Time to Buy and Sell Stock,Accepted,2025-10-04 14.58.31,java,2 ms,62 MB,2025-10-04 14.58.31 - Accepted - runtime 2ms - memory 62MB.java
+50,"Pow(x, n)",Accepted,2025-10-04 14.32.18,java,0 ms,43.5 MB,2025-10-04 14.32.18 - Accepted - runtime 0ms - memory 43.5MB.java
+30,Substring with Concatenation of All Words,Accepted,2025-10-03 21.00.02,java,11 ms,45.9 MB,2025-10-03 21.00.02 - Accepted - runtime 11ms - memory 45.9MB.java
+407,Trapping Rain Water II,Accepted,2025-10-03 20.22.38,java,22 ms,46.8 MB,2025-10-03 20.22.38 - Accepted - runtime 22ms - memory 46.8MB.java
+17,Letter Combinations of a Phone Number,Accepted,2025-10-03 20.18.59,java,0 ms,41.9 MB,2025-10-03 20.18.59 - Accepted - runtime 0ms - memory 41.9MB.java
+11,Container With Most Water,Accepted,2025-10-03 20.06.58,java,5 ms,58.2 MB,2025-10-03 20.06.58 - Accepted - runtime 5ms - memory 58.2MB.java
+8,String to Integer (atoi),Accepted,2025-10-03 19.45.45,java,1 ms,42.6 MB,2025-10-03 19.45.45 - Accepted - runtime 1ms - memory 42.6MB.java
+8,String to Integer (atoi),Accepted,2025-10-03 19.45.28,java,1 ms,42.2 MB,2025-10-03 19.45.28 - Accepted - runtime 1ms - memory 42.2MB.java
+6,Zigzag Conversion,Accepted,2025-10-01 20.13.06,java,4 ms,44.9 MB,2025-10-01 20.13.06 - Accepted - runtime 4ms - memory 44.9MB.java
+5,Longest Palindromic Substring,Accepted,2025-10-01 20.05.31,java,13 ms,42.1 MB,2025-10-01 20.05.31 - Accepted - runtime 13ms - memory 42.1MB.java
+18,4Sum,Accepted,2025-08-27 19.04.08,java,19 ms,44 MB,2025-08-27 19.04.08 - Accepted - runtime 19ms - memory 44MB.java
+2383,Add Two Integers,Accepted,2025-08-09 09.23.33,java,0 ms,40.4 MB,2025-08-09 09.23.33 - Accepted - runtime 0ms - memory 40.4MB.java
+33,Search in Rotated Sorted Array,Accepted,2025-07-27 10.56.43,java,0 ms,42 MB,2025-07-27 10.56.43 - Accepted - runtime 0ms - memory 42MB.java
+33,Search in Rotated Sorted Array,Accepted,2025-07-27 10.54.36,java,0 ms,42 MB,2025-07-27 10.54.36 - Accepted - runtime 0ms - memory 42MB.java
+3,Longest Substring Without Repeating Characters,Accepted,2025-07-21 20.32.54,java,8 ms,45.8 MB,2025-07-21 20.32.54 - Accepted - runtime 8ms - memory 45.8MB.java
+3,Longest Substring Without Repeating Characters,Accepted,2025-07-21 20.32.25,java,8 ms,45.5 MB,2025-07-21 20.32.25 - Accepted - runtime 8ms - memory 45.5MB.java
+189,Rotate Array,Accepted,2025-07-20 19.12.45,java,0 ms,57.4 MB,2025-07-20 19.12.45 - Accepted - runtime 0ms - memory 57.4MB.java
+125,Valid Palindrome,Accepted,2025-07-19 20.40.10,java,2 ms,43 MB,2025-07-19 20.40.10 - Accepted - runtime 2ms - memory 43MB.java
+367,Valid Perfect Square,Accepted,2025-07-18 20.41.31,java,1 ms,40.4 MB,2025-07-18 20.41.31 - Accepted - runtime 1ms - memory 40.4MB.java
+231,Power of Two,Accepted,2025-07-17 19.11.20,java,0 ms,41.5 MB,2025-07-17 19.11.20 - Accepted - runtime 0ms - memory 41.5MB.java
+136,Single Number,Accepted,2025-07-16 18.56.21,java,208 ms,46.4 MB,2025-07-16 18.56.21 - Accepted - runtime 208ms - memory 46.4MB.java
+100,Same Tree,Accepted,2025-07-15 18.21.26,java,0 ms,41.4 MB,2025-07-15 18.21.26 - Accepted - runtime 0ms - memory 41.4MB.java
+83,Remove Duplicates from Sorted List,Accepted,2025-07-15 18.19.45,java,0 ms,44.2 MB,2025-07-15 18.19.45 - Accepted - runtime 0ms - memory 44.2MB.java
+88,Merge Sorted Array,Accepted,2025-07-15 18.18.26,java,0 ms,42.5 MB,2025-07-15 18.18.26 - Accepted - runtime 0ms - memory 42.5MB.java
+38,Count and Say,Accepted,2025-07-14 18.14.57,java,8 ms,41.2 MB,2025-07-14 18.14.57 - Accepted - runtime 8ms - memory 41.2MB.java
+38,Count and Say,Accepted,2025-07-14 18.14.47,java,8 ms,41.1 MB,2025-07-14 18.14.47 - Accepted - runtime 8ms - memory 41.1MB.java
+16,3Sum Closest,Accepted,2025-07-14 18.12.58,java,14 ms,43 MB,2025-07-14 18.12.58 - Accepted - runtime 14ms - memory 43MB.java
+326,Power of Three,Accepted,2025-07-13 12.09.44,java,8 ms,44.1 MB,2025-07-13 12.09.44 - Accepted - runtime 8ms - memory 44.1MB.java
+112,Path Sum,Accepted,2025-07-13 12.08.18,java,0 ms,43.9 MB,2025-07-13 12.08.18 - Accepted - runtime 0ms - memory 43.9MB.java
+193,Valid Phone Numbers,Accepted,2025-07-12 16.21.34,bash,73 ms,3.6 MB,2025-07-12 16.21.34 - Accepted - runtime 73ms - memory 3.6MB.sh
+70,Climbing Stairs,Accepted,2025-07-12 16.19.51,java,0 ms,40.6 MB,2025-07-12 16.19.51 - Accepted - runtime 0ms - memory 40.6MB.java
+69,Sqrt(x),Accepted,2025-07-12 16.16.49,java,0 ms,40.8 MB,2025-07-12 16.16.49 - Accepted - runtime 0ms - memory 40.8MB.java
+66,Plus One,Accepted,2025-07-12 16.13.28,java,0 ms,41.7 MB,2025-07-12 16.13.28 - Accepted - runtime 0ms - memory 41.7MB.java
+29,Divide Two Integers,Accepted,2025-07-12 15.43.46,java,1 ms,41.5 MB,2025-07-12 15.43.46 - Accepted - runtime 1ms - memory 41.5MB.java
+15,3Sum,Accepted,2025-07-12 15.33.31,java,32 ms,51.6 MB,2025-07-12 15.33.31 - Accepted - runtime 32ms - memory 51.6MB.java
+15,3Sum,Accepted,2025-07-12 10.28.03,java,31 ms,51.7 MB,2025-07-12 10.28.03 - Accepted - runtime 31ms - memory 51.7MB.java
+4,Median of Two Sorted Arrays,Accepted,2025-07-12 10.24.08,java,1 ms,46.2 MB,2025-07-12 10.24.08 - Accepted - runtime 1ms - memory 46.2MB.java
+2,Add Two Numbers,Accepted,2025-07-11 14.39.38,java,1 ms,44.7 MB,2025-07-11 14.39.38 - Accepted - runtime 1ms - memory 44.7MB.java
+58,Length of Last Word,Accepted,2025-04-21 19.35.53,c,0 ms,8.2 MB,2025-04-21 19.35.53 - Accepted - runtime 0ms - memory 8.2MB.c
+35,Search Insert Position,Accepted,2025-04-21 19.34.22,c,0 ms,8.1 MB,2025-04-21 19.34.22 - Accepted - runtime 0ms - memory 8.1MB.c
+28,Find the Index of the First Occurrence in a String,Accepted,2025-04-21 19.33.11,c,0 ms,8 MB,2025-04-21 19.33.11 - Accepted - runtime 0ms - memory 8MB.c
+27,Remove Element,Accepted,2025-04-21 19.31.41,c,1 ms,9.6 MB,2025-04-21 19.31.41 - Accepted - runtime 1ms - memory 9.6MB.c
+26,Remove Duplicates from Sorted Array,Accepted,2025-04-21 19.30.13,c,0 ms,12.4 MB,2025-04-21 19.30.13 - Accepted - runtime 0ms - memory 12.4MB.c
+21,Merge Two Sorted Lists,Accepted,2025-04-21 19.26.19,c,0 ms,10.6 MB,2025-04-21 19.26.19 - Accepted - runtime 0ms - memory 10.6MB.c
+20,Valid Parentheses,Accepted,2025-04-21 19.23.46,c,0 ms,7.9 MB,2025-04-21 19.23.46 - Accepted - runtime 0ms - memory 7.9MB.c
+14,Longest Common Prefix,Accepted,2025-04-21 19.22.11,c,0 ms,8.1 MB,2025-04-21 19.22.11 - Accepted - runtime 0ms - memory 8.1MB.c
+14,Longest Common Prefix,Accepted,2025-04-21 19.21.55,c,0 ms,8.3 MB,2025-04-21 19.21.55 - Accepted - runtime 0ms - memory 8.3MB.c
+12,Integer to Roman,Accepted,2025-04-21 19.19.43,c,5 ms,9.2 MB,2025-04-21 19.19.43 - Accepted - runtime 5ms - memory 9.2MB.c
+13,Roman to Integer,Accepted,2025-04-21 19.15.49,c,3 ms,10.3 MB,2025-04-21 19.15.49 - Accepted - runtime 3ms - memory 10.3MB.c
+9,Palindrome Number,Accepted,2025-03-19 14.52.48,c,0 ms,8.1 MB,2025-03-19 14.52.48 - Accepted - runtime 0ms - memory 8.1MB.c
+7,Reverse Integer,Accepted,2025-03-19 11.52.16,c,0 ms,8.4 MB,2025-03-19 11.52.16 - Accepted - runtime 0ms - memory 8.4MB.c
+283,Move Zeroes,Accepted,2025-03-19 10.59.25,c,0 ms,19.6 MB,2025-03-19 10.59.25 - Accepted - runtime 0ms - memory 19.6MB.c
+283,Move Zeroes,Accepted,2025-03-19 10.37.11,c,0 ms,19.7 MB,2025-03-19 10.37.11 - Accepted - runtime 0ms - memory 19.7MB.c
+268,Missing Number,Accepted,2025-03-19 10.27.56,c,0 ms,8.9 MB,2025-03-19 10.27.56 - Accepted - runtime 0ms - memory 8.9MB.c
+1,Two Sum,Accepted,2025-03-10 10.18.08,c,103 ms,8.7 MB,2025-03-10 10.18.08 - Accepted - runtime 103ms - memory 8.7MB.c
+1,Two Sum,Accepted,2025-03-10 10.16.31,c,104 ms,8.7 MB,2025-03-10 10.16.31 - Accepted - runtime 104ms - memory 8.7MB.c
+1,Two Sum,Accepted,2025-03-10 10.12.31,c,99 ms,8.5 MB,2025-03-10 10.12.31 - Accepted - runtime 99ms - memory 8.5MB.c
