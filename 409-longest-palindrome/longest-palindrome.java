@@ -1,14 +1,11 @@
 class Solution {
     public int longestPalindrome(String s) {
         int[] freq = new int[128];
-
         for (char c : s.toCharArray()) {
             freq[c]++;
         }
-
         int length = 0;
         boolean oddFound = false;
-
         for (int count : freq) {
             length += (count / 2) * 2;
 
@@ -16,11 +13,9 @@ class Solution {
                 oddFound = true;
             }
         }
-
         if (oddFound) {
             length++;
         }
-
         return length;
     }
 }
